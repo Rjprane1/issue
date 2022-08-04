@@ -1,0 +1,10 @@
+com\infosys\infytel\product\CustomerApplication.class
+com\infosys\infytel\product\CustomerConfig.class
+com\infosys\infytel\product\repository\ProductRepository.class
+com\infosys\infytel\product\service\ProductService.class
+com\infosys\infytel\product\dto\subsprod.class
+com\infosys\infytel\product\dto\product.class
+com\infosys\infytel\product\controller\ProductController.class
+com\infosys\infytel\product\entity\subsprod.class
+com\infosys\infytel\product\repository\SubsprodRepository.class
+com\infosys\infytel\product\entity\product.class
